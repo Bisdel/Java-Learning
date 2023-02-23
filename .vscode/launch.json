@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ConditionalHello",
+            "request": "launch",
+            "mainClass": "root.hello.ConditionalHello",
+            "projectName": "Java Learning_b347edfd"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
