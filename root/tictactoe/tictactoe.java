@@ -143,7 +143,6 @@ public class tictactoe {
 
         System.out.println("Here is an empty board :\n"+board);
         System.out.println("To play, just type the number where you'd like to play and press Enter.\n");
-        System.out.println("Be careful, as this game is still in development it is not able to detect by itself when the game is done.\n");
 
         /*Loops until the game is done*/
         while(true){
