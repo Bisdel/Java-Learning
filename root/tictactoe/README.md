@@ -1,6 +1,6 @@
 # Tic-Tac-Toe !
 
-After following the introduction course on Java from Openclassrooms.com, I trained myself by writinga classic Tic-Tac-Toe game, playable by 2 players.
+After following the introduction course on Java from Openclassrooms.com, I trained myself by writing a classic Tic-Tac-Toe game, playable by 2 players.
 
 New features to come :
 - Playing alone with a bot (work in progress)
